@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
             time.sleep(0.1)
             new_s = s.get_value()
-            print(new_s)
+            print(new_s) 
             new_l = l.get_value()
             new_u = u.get_value()
             new_r = r.get_value()
