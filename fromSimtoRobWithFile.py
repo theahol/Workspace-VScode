@@ -58,7 +58,7 @@ if __name__ == "__main__":
     b.set_writable()
     t.set_writable()
 
-    # starting!
+    # server starting!
     server.start()
     print("server is started")
     try:
